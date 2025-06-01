@@ -142,3 +142,27 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* Add styles for the participants section */
+.participants-section {
+  margin-top: 15px;
+  padding-top: 10px;
+  border-top: 1px dashed #ddd;
+}
+
+.participants-section h5 {
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+.participants-list {
+  list-style-position: inside;
+  padding-left: 5px;
+}
+
+.participants-list li {
+  font-size: 0.85rem;
+  padding: 3px 0;
+  color: #666;
+}
